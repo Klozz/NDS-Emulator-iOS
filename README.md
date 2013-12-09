@@ -7,7 +7,6 @@ Based on work of angelXwind
 
 nds4ios is a port of nds4droid to iOS, which is based on DeSmuME.
 
-http://nds4ios.angelxwind.net/
 
 [DeSmuME](http://desmume.org/) 
 
@@ -22,10 +21,10 @@ IMPORTANT: Make sure your working directory is devoid of spaces. Otherwise, bad 
 1.  Open Terminal and go to your working directory;
 
 2.  Do
-<code>git clone https://github.com/angelXwind/nds4ios.git</code>
+<code>git clone https://github.com/Klozz/NDS-Emulator-iOS.git</code>
 
 3.  then
-    <code>cd nds4ios</code>
+    <code>cd NDS-Emulator-iOS</code>
 
 4.  then
     <code>git submodule update --init</code>
@@ -72,3 +71,4 @@ Contributors
 * [inb4ohnoes](http://brian.weareflame.co/)
 * maczydeco
 * [W.MS](http://github.com/w-ms/)
+* [klozz] TeamMEX
